@@ -1,0 +1,834 @@
+User_ID;Gender;Age;Marital_Status;Website_Activity;Browsed_Electronics_12Mo;Bought_Electronics_12Mo;Bought_Digital_Media_18Mo;Bought_Digital_Books;Payment_Method;eReader_Adoption
+1628667;F;50;S;Seldom;Yes;No;No;No;Website Account;Early Majority
+1782046;F;44;S;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1700016;M;63;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1083355;F;37;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1137590;M;33;M;Seldom;No;No;Yes;No;Monthly Billing;Late Majority
+1144791;M;45;M;Seldom;Yes;No;No;Yes;Website Account;Early Adopter
+1910830;M;45;M;Seldom;Yes;No;No;Yes;Website Account;Early Adopter
+1520529;M;59;S;Seldom;Yes;No;No;No;Monthly Billing;Late Majority
+1197941;M;17;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1794889;M;17;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1586862;F;56;M;Frequent;Yes;Yes;Yes;No;Website Account;Early Adopter
+1853132;M;53;S;Regular;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1825181;M;46;S;Frequent;Yes;No;No;No;Website Account;Early Adopter
+1087010;F;53;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1175363;M;43;M;Frequent;Yes;Yes;No;Yes;Website Account;Early Majority
+1986669;F;50;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1535372;F;46;S;Seldom;Yes;No;Yes;Yes;Monthly Billing;Late Majority
+1206136;F;23;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1095870;M;54;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1780302;M;17;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1352557;M;41;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1415409;M;65;S;Regular;Yes;Yes;Yes;No;Website Account;Late Majority
+1406415;M;22;S;Seldom;Yes;No;No;No;Website Account;Early Majority
+1281360;M;22;S;Seldom;Yes;No;No;No;Website Account;Early Majority
+1457959;F;62;M;Regular;No;Yes;Yes;No;Bank Transfer;Early Majority
+1301914;F;22;M;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1255134;F;40;M;Regular;Yes;Yes;Yes;Yes;Website Account;Innovator
+1326545;F;41;M;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Majority
+1833224;F;59;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1208819;F;59;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1740401;M;55;M;Regular;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1461877;F;23;M;Seldom;Yes;Yes;Yes;No;Monthly Billing;Early Majority
+1113265;F;23;M;Seldom;Yes;Yes;Yes;No;Monthly Billing;Early Majority
+1471009;F;50;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1382592;F;50;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1656199;M;66;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1508495;M;66;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1788207;M;34;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1217767;F;52;S;Seldom;Yes;Yes;Yes;No;Credit Card;Late Majority
+1718630;M;27;M;Regular;No;No;Yes;No;Monthly Billing;Early Adopter
+1350549;F;65;M;Seldom;Yes;No;No;Yes;Website Account;Early Majority
+1234188;F;65;M;Seldom;Yes;No;No;Yes;Website Account;Early Majority
+1879496;F;36;S;Frequent;Yes;No;Yes;No;Website Account;Late Majority
+1567379;F;50;M;Frequent;Yes;No;Yes;No;Website Account;Early Adopter
+1354393;F;50;M;Frequent;Yes;No;Yes;No;Website Account;Early Adopter
+1634538;F;38;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1686348;F;38;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1063838;F;64;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1965851;M;51;S;Regular;Yes;No;Yes;Yes;Website Account;Early Adopter
+1078032;F;33;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1065967;M;41;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1268576;F;33;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1848330;M;35;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1992375;M;35;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1309193;M;48;M;Frequent;Yes;Yes;Yes;No;Bank Transfer;Innovator
+1854290;M;18;S;Seldom;No;Yes;No;Yes;Website Account;Early Adopter
+1038721;M;64;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1671241;M;21;S;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1245282;M;32;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1744062;M;41;S;Seldom;No;No;No;No;Monthly Billing;Late Majority
+1178674;F;48;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Majority
+1782778;F;48;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Majority
+1174984;M;61;M;Seldom;Yes;Yes;Yes;No;Monthly Billing;Late Majority
+1370551;M;43;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1456695;M;60;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1702576;M;65;S;Regular;Yes;Yes;Yes;Yes;Credit Card;Early Majority
+1819130;F;55;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1684192;F;55;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1203014;F;35;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Majority
+1877423;F;26;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1821767;M;64;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1502712;M;46;S;Seldom;No;Yes;Yes;No;Bank Transfer;Late Majority
+1637180;M;36;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1232503;M;36;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1273598;F;50;S;Seldom;Yes;Yes;No;Yes;Bank Transfer;Early Adopter
+1302730;F;62;M;Frequent;Yes;No;No;No;Website Account;Early Majority
+1709035;M;19;M;Regular;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1897115;M;51;S;Frequent;Yes;No;Yes;Yes;Website Account;Innovator
+1034997;M;59;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1317511;F;56;M;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1487579;F;56;M;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1002500;F;46;S;Frequent;Yes;No;No;No;Website Account;Early Adopter
+1488912;M;32;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Late Majority
+1378768;M;46;S;Frequent;Yes;No;No;No;Website Account;Early Adopter
+1843871;F;57;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1674718;F;23;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Adopter
+1405290;M;61;M;Seldom;Yes;Yes;Yes;No;Monthly Billing;Innovator
+1102859;M;29;M;Seldom;No;No;Yes;No;Bank Transfer;Early Majority
+1077893;M;29;M;Seldom;No;No;Yes;No;Bank Transfer;Early Majority
+1086400;F;32;M;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1509150;F;34;S;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1581379;F;45;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1309145;F;50;M;Regular;Yes;No;Yes;Yes;Credit Card;Innovator
+1158760;F;50;M;Regular;Yes;No;Yes;Yes;Credit Card;Innovator
+1133995;M;46;M;Regular;Yes;No;Yes;No;Credit Card;Early Adopter
+1206800;M;23;M;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1435763;F;53;S;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1579778;F;53;S;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1298242;M;57;M;Frequent;Yes;No;Yes;No;Website Account;Early Adopter
+1228440;F;60;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Late Majority
+1939431;F;34;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1102087;F;54;M;Frequent;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1788023;M;44;M;Regular;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1437419;F;49;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1745787;F;59;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1181327;F;59;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1015435;F;53;S;Seldom;Yes;No;Yes;No;Website Account;Early Adopter
+1249388;M;17;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1671235;F;64;M;Frequent;No;Yes;No;Yes;Website Account;Late Majority
+1235673;M;52;M;Regular;Yes;Yes;Yes;Yes;Credit Card;Innovator
+1300621;M;38;S;Regular;Yes;Yes;No;No;Credit Card;Early Adopter
+1361917;M;38;S;Regular;Yes;Yes;No;No;Credit Card;Early Adopter
+1682604;M;41;M;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1982817;M;41;M;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1735291;F;21;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Innovator
+1505298;M;38;M;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1522852;M;38;M;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1371036;F;41;S;Seldom;No;No;Yes;No;Bank Transfer;Early Majority
+1755186;F;41;S;Seldom;No;No;Yes;No;Bank Transfer;Early Majority
+1243882;F;36;S;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1773649;F;44;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1199579;M;62;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1854843;F;61;M;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1967426;F;40;M;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1609234;M;52;S;Frequent;Yes;Yes;Yes;No;Credit Card;Early Adopter
+1493451;M;46;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1803602;M;46;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1534827;F;19;M;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1820272;M;57;S;Regular;No;Yes;Yes;Yes;Bank Transfer;Early Majority
+1181240;F;46;S;Seldom;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1713871;F;17;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1540712;F;26;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1028253;F;40;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1895122;M;24;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1170586;M;24;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1433500;F;50;M;Regular;Yes;Yes;No;No;Bank Transfer;Innovator
+1601514;M;22;M;Seldom;Yes;No;No;No;Monthly Billing;Early Majority
+1309320;M;35;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1524349;F;51;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1763276;F;36;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1467205;F;59;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1774954;F;59;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1713950;F;54;S;Regular;Yes;No;Yes;No;Website Account;Early Majority
+1662833;F;54;S;Regular;Yes;No;Yes;No;Website Account;Early Majority
+1280282;M;48;M;Frequent;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1036519;M;19;M;Regular;Yes;Yes;Yes;Yes;Website Account;Innovator
+1581272;F;52;S;Seldom;Yes;No;No;No;Website Account;Late Majority
+1134120;M;34;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1814518;F;64;M;Frequent;No;Yes;No;Yes;Website Account;Innovator
+1362114;F;49;M;Regular;No;Yes;Yes;No;Credit Card;Early Adopter
+1676828;F;43;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1989750;F;43;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1006575;F;37;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1914870;F;49;M;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1500063;F;32;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1047046;F;22;S;Seldom;Yes;No;No;Yes;Bank Transfer;Early Adopter
+1371320;F;22;S;Seldom;Yes;No;No;Yes;Bank Transfer;Early Adopter
+1495666;M;41;M;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Majority
+1290452;F;39;M;Seldom;Yes;No;No;No;Monthly Billing;Late Majority
+1740849;M;57;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Late Majority
+1738305;F;45;M;Frequent;Yes;No;No;No;Bank Transfer;Innovator
+1887432;F;45;M;Frequent;Yes;No;No;No;Bank Transfer;Innovator
+1063083;M;51;M;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1067620;F;65;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1695481;F;54;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1786508;F;61;S;Seldom;No;No;Yes;Yes;Credit Card;Early Majority
+1172762;F;61;S;Seldom;No;No;Yes;Yes;Credit Card;Early Majority
+1426625;M;57;M;Seldom;Yes;Yes;No;Yes;Monthly Billing;Early Majority
+1419180;F;35;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1199706;M;38;S;Frequent;Yes;No;Yes;No;Credit Card;Innovator
+1147248;F;19;M;Seldom;No;No;Yes;Yes;Bank Transfer;Innovator
+1427094;F;19;M;Seldom;No;No;Yes;Yes;Bank Transfer;Innovator
+1059048;F;50;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1232663;F;50;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1721685;F;32;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1116362;M;60;M;Frequent;No;Yes;Yes;No;Website Account;Early Majority
+1321149;M;19;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1894310;M;19;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1056316;M;40;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1411504;M;38;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1050964;M;38;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1677402;F;20;S;Seldom;Yes;Yes;No;No;Website Account;Early Majority
+1320294;F;50;S;Seldom;Yes;Yes;No;Yes;Bank Transfer;Late Majority
+1392895;M;23;M;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1922835;M;62;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1983859;M;62;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1489185;M;49;S;Regular;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1928024;M;49;S;Regular;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1221529;F;27;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Early Majority
+1151892;F;48;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1553021;M;54;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1107104;M;45;S;Regular;No;No;No;No;Website Account;Early Majority
+1013250;M;45;S;Regular;No;No;No;No;Website Account;Early Majority
+1322820;M;45;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1640016;M;45;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1084895;F;50;S;Seldom;Yes;No;No;No;Website Account;Late Majority
+1634252;F;32;M;Frequent;Yes;Yes;No;No;Monthly Billing;Innovator
+1258679;M;44;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1684856;F;26;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1016612;M;62;M;Seldom;Yes;No;No;Yes;Bank Transfer;Early Adopter
+1293076;F;53;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1913753;M;50;S;Regular;Yes;No;Yes;No;Website Account;Early Majority
+1071067;F;35;S;Regular;Yes;Yes;No;No;Website Account;Early Adopter
+1919445;F;40;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1001739;F;48;S;Seldom;Yes;Yes;No;No;Website Account;Late Majority
+1936568;F;48;S;Seldom;Yes;Yes;No;No;Website Account;Late Majority
+1041959;F;19;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1897926;F;19;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1837379;M;57;M;Frequent;Yes;No;Yes;No;Website Account;Late Majority
+1858257;F;21;S;Regular;Yes;No;No;No;Website Account;Early Adopter
+1085874;M;44;M;Seldom;No;Yes;Yes;Yes;Website Account;Early Adopter
+1082773;M;29;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1159727;M;37;S;Seldom;No;Yes;Yes;Yes;Website Account;Early Adopter
+1137080;M;37;S;Seldom;No;Yes;Yes;Yes;Website Account;Early Adopter
+1880801;M;43;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1214048;M;34;S;Regular;Yes;No;Yes;Yes;Website Account;Late Majority
+1766838;F;45;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1860716;M;16;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1296800;F;61;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1451647;M;58;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1335287;M;48;S;Seldom;Yes;Yes;No;No;Monthly Billing;Late Majority
+1707678;M;48;S;Seldom;Yes;Yes;No;No;Monthly Billing;Late Majority
+1521957;M;55;S;Regular;Yes;No;Yes;No;Bank Transfer;Early Majority
+1806849;M;55;S;Regular;Yes;No;Yes;No;Bank Transfer;Early Majority
+1709784;F;22;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1046856;F;22;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1494787;F;34;S;Regular;Yes;Yes;Yes;No;Website Account;Innovator
+1511406;M;51;M;Seldom;Yes;Yes;No;Yes;Monthly Billing;Early Adopter
+1398389;M;56;S;Regular;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1220749;M;23;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1016838;M;27;M;Regular;Yes;No;No;No;Bank Transfer;Innovator
+1443495;M;36;S;Seldom;Yes;No;No;No;Website Account;Late Majority
+1724426;F;29;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1186209;F;29;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1870692;M;30;S;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Majority
+1288803;M;26;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1415655;M;16;M;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1809994;M;56;M;Frequent;Yes;No;Yes;Yes;Website Account;Innovator
+1675375;M;56;M;Frequent;Yes;No;Yes;Yes;Website Account;Innovator
+1314759;M;26;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1858286;M;26;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1278855;M;43;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1329500;F;45;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1134060;M;52;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1660128;F;54;S;Seldom;Yes;Yes;Yes;No;Monthly Billing;Late Majority
+1838975;M;26;S;Seldom;Yes;No;No;No;Credit Card;Late Majority
+1601216;F;52;S;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1131271;M;28;M;Seldom;Yes;No;Yes;Yes;Website Account;Late Majority
+1443682;M;44;S;Regular;Yes;No;Yes;No;Website Account;Innovator
+1255367;F;48;S;Seldom;Yes;Yes;No;Yes;Monthly Billing;Early Adopter
+1204366;F;48;S;Seldom;Yes;Yes;No;Yes;Monthly Billing;Early Adopter
+1540926;M;55;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1633857;M;55;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1585748;F;48;S;Seldom;Yes;Yes;No;Yes;Monthly Billing;Late Majority
+1912195;F;23;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1450989;M;44;M;Regular;Yes;No;No;No;Credit Card;Late Majority
+1984801;F;20;S;Regular;No;No;Yes;No;Website Account;Early Adopter
+1094507;F;36;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1964429;M;54;S;Frequent;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1210841;M;54;S;Frequent;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1795123;F;44;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1302247;F;44;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1381336;M;46;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1064018;F;37;M;Regular;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1646115;F;37;M;Regular;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1441242;M;42;M;Seldom;Yes;No;No;Yes;Website Account;Early Majority
+1018650;F;33;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1772347;M;19;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1850402;F;56;M;Seldom;Yes;Yes;No;Yes;Bank Transfer;Early Majority
+1560043;F;56;M;Seldom;Yes;Yes;No;Yes;Bank Transfer;Early Majority
+1757921;F;21;M;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1629970;M;29;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1129786;M;29;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1487608;M;39;M;Regular;Yes;No;Yes;No;Website Account;Early Majority
+1439792;M;27;M;Seldom;No;Yes;Yes;No;Website Account;Late Majority
+1766850;M;20;M;Seldom;Yes;No;No;No;Website Account;Early Majority
+1102307;M;62;M;Seldom;Yes;Yes;No;No;Credit Card;Late Majority
+1438815;M;27;M;Seldom;No;Yes;Yes;No;Website Account;Late Majority
+1804698;M;59;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1715576;M;59;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1671663;F;32;M;Seldom;No;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1482183;F;32;M;Seldom;No;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1996870;F;44;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1325680;F;53;S;Seldom;Yes;No;Yes;Yes;Credit Card;Early Majority
+1836395;M;19;S;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1887786;M;19;S;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1434164;F;63;M;Frequent;No;Yes;No;Yes;Website Account;Early Majority
+1232413;M;45;S;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1550742;M;43;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1673898;F;27;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1989681;F;16;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1100549;F;16;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1712781;F;36;S;Frequent;Yes;No;Yes;No;Website Account;Innovator
+1633485;F;21;S;Seldom;Yes;No;No;No;Credit Card;Late Majority
+1079615;M;59;M;Seldom;Yes;Yes;Yes;No;Credit Card;Late Majority
+1206440;F;22;M;Regular;Yes;Yes;Yes;No;Credit Card;Innovator
+1369610;F;18;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Innovator
+1448069;F;18;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Innovator
+1956209;M;40;S;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1342096;M;18;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Majority
+1255790;F;46;S;Regular;Yes;Yes;Yes;No;Bank Transfer;Innovator
+1744350;M;32;S;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1374497;M;32;S;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1058428;M;42;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1574442;M;46;S;Seldom;Yes;No;Yes;Yes;Website Account;Late Majority
+1671977;F;29;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1329328;F;28;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1374854;F;62;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1255883;F;62;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1034814;F;63;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1160776;M;55;M;Frequent;Yes;No;Yes;No;Bank Transfer;Innovator
+1483891;M;43;M;Frequent;Yes;Yes;No;Yes;Website Account;Innovator
+1967396;F;40;M;Regular;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1760223;M;58;M;Frequent;Yes;Yes;No;No;Website Account;Early Adopter
+1218707;F;43;M;Frequent;Yes;No;Yes;No;Bank Transfer;Innovator
+1997275;F;43;M;Frequent;Yes;No;Yes;No;Bank Transfer;Innovator
+1565188;F;17;M;Regular;Yes;No;Yes;No;Credit Card;Early Adopter
+1549565;F;64;S;Frequent;Yes;No;Yes;Yes;Monthly Billing;Innovator
+1167266;F;47;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1850279;M;29;M;Regular;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1166524;F;62;M;Regular;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1753114;F;62;M;Regular;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1297151;M;58;M;Seldom;No;Yes;No;No;Credit Card;Late Majority
+1656611;F;44;M;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1901298;F;32;S;Regular;Yes;Yes;No;Yes;Credit Card;Innovator
+1694151;F;55;M;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1652114;M;57;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1081297;M;49;M;Regular;Yes;No;Yes;Yes;Website Account;Innovator
+1342920;F;43;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1380583;F;62;S;Frequent;Yes;No;No;No;Website Account;Early Majority
+1445256;M;41;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1629979;F;26;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1610496;M;60;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1686841;F;29;S;Seldom;Yes;No;Yes;No;Website Account;Early Adopter
+1137550;M;57;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1107816;M;51;S;Regular;Yes;No;Yes;Yes;Website Account;Early Adopter
+1987159;F;51;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1765282;F;52;M;Seldom;Yes;Yes;No;Yes;Credit Card;Early Adopter
+1456637;F;52;M;Seldom;Yes;Yes;No;Yes;Credit Card;Early Adopter
+1519592;M;34;M;Seldom;Yes;No;Yes;Yes;Website Account;Late Majority
+1901592;F;63;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1964850;F;63;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1379229;M;61;S;Seldom;Yes;Yes;Yes;No;Credit Card;Late Majority
+1147669;F;27;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1014206;F;27;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1987143;M;40;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1075478;F;27;S;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1507312;F;27;S;Seldom;Yes;Yes;Yes;No;Credit Card;Early Majority
+1810151;F;53;S;Seldom;Yes;No;Yes;Yes;Credit Card;Early Adopter
+1354254;M;21;M;Seldom;No;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1886391;M;21;M;Seldom;No;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1557648;M;30;S;Seldom;Yes;Yes;No;No;Bank Transfer;Late Majority
+1125157;F;40;S;Seldom;Yes;Yes;No;No;Website Account;Late Majority
+1960611;F;40;S;Seldom;Yes;Yes;No;No;Website Account;Late Majority
+1026856;F;53;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1061853;F;53;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1384085;M;57;S;Regular;Yes;No;Yes;Yes;Website Account;Innovator
+1616853;M;63;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Majority
+1647833;M;63;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Majority
+1061785;M;61;M;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Majority
+1570669;F;37;M;Regular;Yes;No;No;Yes;Monthly Billing;Innovator
+1160785;F;45;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1771752;M;34;S;Regular;Yes;No;Yes;Yes;Website Account;Innovator
+1518583;M;37;M;Seldom;Yes;Yes;No;No;Bank Transfer;Late Majority
+1694337;F;46;M;Regular;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1780729;F;46;M;Regular;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1616060;F;64;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1829421;M;26;S;Seldom;No;No;Yes;Yes;Website Account;Early Majority
+1269618;M;62;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1902377;M;54;M;Regular;Yes;No;No;Yes;Bank Transfer;Innovator
+1511987;M;54;M;Regular;Yes;No;No;Yes;Bank Transfer;Innovator
+1880011;F;64;M;Regular;Yes;No;No;No;Website Account;Innovator
+1949727;F;17;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1334541;M;36;S;Seldom;No;No;Yes;Yes;Bank Transfer;Early Majority
+1123440;M;36;S;Seldom;No;No;Yes;Yes;Bank Transfer;Early Majority
+1792456;F;36;M;Seldom;Yes;Yes;No;No;Website Account;Late Majority
+1202285;F;60;M;Frequent;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1352143;F;60;M;Frequent;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1126818;M;21;M;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1198144;M;63;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1899894;M;63;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1648348;M;54;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1193033;M;31;S;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1098606;F;33;S;Regular;Yes;No;No;Yes;Monthly Billing;Innovator
+1025366;M;41;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1927200;M;41;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1918878;F;48;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1129316;F;25;S;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1645975;M;64;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Late Majority
+1015248;F;25;S;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1547929;M;47;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1941204;M;56;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1689120;F;57;S;Seldom;Yes;Yes;No;Yes;Bank Transfer;Early Adopter
+1393322;M;65;S;Regular;Yes;No;No;Yes;Credit Card;Innovator
+1976896;M;65;S;Regular;Yes;No;No;Yes;Credit Card;Innovator
+1471913;F;40;M;Seldom;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1182167;M;61;M;Frequent;Yes;No;No;No;Credit Card;Early Majority
+1462990;M;36;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1691685;M;36;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1850550;M;49;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1205338;F;29;M;Seldom;No;No;Yes;Yes;Bank Transfer;Early Adopter
+1749247;F;38;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1617785;F;33;M;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1682852;M;23;M;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1891286;M;23;M;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1399876;M;65;S;Regular;Yes;No;No;Yes;Credit Card;Early Majority
+1397842;F;38;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1201197;F;45;S;Seldom;No;Yes;Yes;No;Bank Transfer;Late Majority
+1530660;F;45;S;Seldom;No;Yes;Yes;No;Bank Transfer;Late Majority
+1024012;F;56;S;Regular;Yes;No;No;Yes;Website Account;Early Adopter
+1356436;F;57;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1880816;F;22;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1670778;F;22;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1774526;F;25;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1276090;M;59;M;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1357712;M;23;M;Seldom;Yes;Yes;No;Yes;Credit Card;Early Adopter
+1602884;M;66;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1661024;M;57;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Majority
+1835939;M;44;M;Regular;Yes;No;No;No;Credit Card;Early Adopter
+1520882;M;29;S;Regular;Yes;Yes;Yes;Yes;Website Account;Innovator
+1582286;F;46;S;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Majority
+1461710;M;34;M;Regular;Yes;No;No;No;Website Account;Early Adopter
+1196057;M;37;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1794373;M;37;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1329623;F;27;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Majority
+1102639;F;22;M;Regular;Yes;Yes;No;Yes;Credit Card;Innovator
+1611663;F;26;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1774770;M;17;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1651144;M;65;M;Seldom;Yes;Yes;No;No;Bank Transfer;Late Majority
+1319739;M;65;M;Seldom;Yes;Yes;No;No;Bank Transfer;Late Majority
+1935392;M;61;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1470420;M;20;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1856167;F;26;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Innovator
+1156175;M;40;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1131795;M;40;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1604228;M;56;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1606083;M;43;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1075427;F;64;M;Seldom;Yes;Yes;Yes;Yes;Credit Card;Late Majority
+1644769;M;41;M;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1309058;F;17;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1288809;F;17;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1895079;M;49;S;Seldom;No;Yes;Yes;Yes;Website Account;Early Adopter
+1061205;F;56;S;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1192432;M;33;S;Regular;Yes;Yes;Yes;Yes;Credit Card;Innovator
+1475640;F;59;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1800822;F;57;M;Frequent;Yes;No;Yes;Yes;Monthly Billing;Innovator
+1665509;F;51;M;Frequent;Yes;No;No;Yes;Website Account;Innovator
+1852581;M;36;M;Seldom;No;No;Yes;No;Bank Transfer;Early Majority
+1096007;M;36;M;Seldom;No;No;Yes;No;Bank Transfer;Early Majority
+1756777;M;64;M;Seldom;Yes;No;No;No;Bank Transfer;Late Majority
+1653963;M;48;M;Seldom;No;No;No;No;Credit Card;Late Majority
+1620069;M;48;M;Seldom;No;No;No;No;Credit Card;Late Majority
+1610501;F;44;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1460280;F;44;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1162659;M;20;M;Seldom;Yes;No;Yes;No;Monthly Billing;Early Majority
+1583300;F;61;M;Regular;Yes;Yes;Yes;No;Monthly Billing;Early Majority
+1841010;M;47;S;Regular;Yes;No;No;Yes;Credit Card;Innovator
+1033092;F;32;M;Frequent;Yes;Yes;No;No;Monthly Billing;Innovator
+1418807;F;32;M;Frequent;Yes;Yes;No;No;Monthly Billing;Innovator
+1089037;F;49;M;Seldom;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1779047;M;22;M;Seldom;Yes;No;No;No;Monthly Billing;Late Majority
+1135712;M;49;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1206606;M;49;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1004401;F;53;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1688342;M;47;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1918064;M;47;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1232951;M;16;M;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1339769;M;39;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1151729;M;39;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1089365;F;64;S;Seldom;Yes;No;Yes;Yes;Website Account;Late Majority
+1589159;M;52;M;Seldom;Yes;No;No;Yes;Bank Transfer;Early Majority
+1765654;F;43;S;Frequent;Yes;Yes;Yes;No;Monthly Billing;Early Adopter
+1789249;M;53;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1376056;M;53;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1204136;F;63;M;Frequent;No;Yes;No;Yes;Website Account;Innovator
+1917507;M;42;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1607354;M;42;M;Seldom;No;No;Yes;No;Monthly Billing;Late Majority
+1411465;M;19;S;Regular;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1726099;F;48;M;Regular;Yes;Yes;Yes;No;Website Account;Early Majority
+1912561;F;48;M;Regular;Yes;Yes;Yes;No;Website Account;Early Majority
+1794554;F;25;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1319086;F;25;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1117155;F;28;S;Seldom;No;Yes;Yes;No;Monthly Billing;Late Majority
+1606023;F;28;S;Seldom;No;Yes;Yes;No;Monthly Billing;Late Majority
+1777749;F;44;M;Seldom;Yes;Yes;No;No;Website Account;Late Majority
+1514141;F;61;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1675026;F;61;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1203255;F;34;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1473932;F;45;M;Regular;Yes;Yes;No;Yes;Bank Transfer;Early Adopter
+1024163;M;35;M;Frequent;Yes;No;Yes;No;Bank Transfer;Innovator
+1399774;M;45;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1554940;M;24;M;Regular;Yes;No;Yes;No;Bank Transfer;Early Majority
+1300259;M;48;S;Frequent;Yes;Yes;Yes;Yes;Website Account;Innovator
+1776566;F;39;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1427136;F;31;M;Seldom;Yes;Yes;No;No;Credit Card;Early Majority
+1703348;F;31;M;Seldom;Yes;Yes;No;No;Credit Card;Early Majority
+1826877;M;51;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1539114;F;64;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1108600;M;33;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1214949;M;60;M;Frequent;Yes;No;Yes;No;Website Account;Early Majority
+1287189;F;46;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1304644;M;58;S;Regular;Yes;No;Yes;No;Credit Card;Early Majority
+1095880;M;58;S;Regular;Yes;No;Yes;No;Credit Card;Early Majority
+1450053;F;64;M;Regular;Yes;No;No;No;Website Account;Late Majority
+1735324;F;44;S;Seldom;Yes;No;Yes;No;Monthly Billing;Early Adopter
+1654212;M;48;S;Regular;Yes;Yes;No;Yes;Website Account;Early Adopter
+1039236;F;39;M;Regular;Yes;No;No;Yes;Website Account;Innovator
+1495961;F;39;M;Regular;Yes;No;No;Yes;Website Account;Innovator
+1623881;M;27;M;Regular;Yes;No;Yes;No;Bank Transfer;Innovator
+1782233;M;27;M;Regular;Yes;No;Yes;No;Bank Transfer;Innovator
+1557357;M;41;S;Seldom;Yes;No;No;Yes;Bank Transfer;Early Adopter
+1704217;F;50;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1616459;M;61;S;Regular;Yes;No;Yes;No;Website Account;Early Majority
+1945602;F;50;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1596761;M;29;S;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1945737;M;29;S;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1183781;F;55;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1077713;M;49;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1100318;M;49;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1389442;F;63;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1886646;F;36;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1709524;F;47;S;Seldom;Yes;Yes;No;Yes;Credit Card;Innovator
+1081675;F;65;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1727340;F;55;M;Regular;Yes;Yes;No;Yes;Bank Transfer;Innovator
+1685361;F;29;S;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1582315;M;36;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1508885;M;36;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1943998;M;36;M;Seldom;Yes;No;No;No;Website Account;Late Majority
+1278513;M;36;M;Seldom;Yes;No;No;No;Website Account;Late Majority
+1106138;M;58;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1975891;F;49;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1287788;M;62;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1906434;M;62;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1048882;F;21;M;Seldom;Yes;Yes;No;Yes;Bank Transfer;Early Adopter
+1255683;F;21;M;Seldom;Yes;Yes;No;Yes;Bank Transfer;Early Adopter
+1158412;M;53;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1732651;M;30;M;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1519330;M;22;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1314278;M;43;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Majority
+1512792;M;17;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1145344;M;18;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1243154;M;34;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Majority
+1296046;M;33;M;Seldom;Yes;No;Yes;No;Monthly Billing;Innovator
+1083358;F;46;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1858882;F;46;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1058049;F;53;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1440716;F;50;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1920392;F;50;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1031436;M;60;S;Seldom;No;Yes;Yes;Yes;Credit Card;Early Majority
+1732563;M;60;S;Seldom;No;Yes;Yes;Yes;Credit Card;Early Majority
+1183986;M;27;M;Regular;No;No;Yes;No;Monthly Billing;Early Majority
+1706292;F;38;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1181836;F;29;S;Seldom;Yes;No;Yes;No;Website Account;Innovator
+1519991;M;51;M;Frequent;Yes;Yes;Yes;No;Website Account;Early Adopter
+1055411;M;46;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1104618;M;46;M;Regular;Yes;Yes;Yes;Yes;Monthly Billing;Innovator
+1762589;F;53;S;Seldom;Yes;Yes;Yes;No;Monthly Billing;Late Majority
+1480161;F;20;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Adopter
+1255755;F;20;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Adopter
+1421484;F;57;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Majority
+1420493;M;22;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1441789;M;20;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1418287;F;41;M;Regular;Yes;Yes;No;Yes;Website Account;Innovator
+1261455;F;41;M;Regular;Yes;Yes;No;Yes;Website Account;Innovator
+1195407;M;63;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1590853;M;37;S;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1373828;M;37;S;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1100012;M;24;M;Regular;Yes;No;Yes;No;Credit Card;Innovator
+1440343;M;24;M;Regular;Yes;No;Yes;No;Credit Card;Innovator
+1868161;M;25;M;Regular;Yes;Yes;Yes;Yes;Website Account;Innovator
+1974521;M;46;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Majority
+1891091;M;23;M;Regular;Yes;No;Yes;No;Website Account;Innovator
+1570745;F;40;M;Regular;Yes;Yes;No;Yes;Website Account;Innovator
+1577013;F;40;M;Regular;Yes;Yes;No;Yes;Website Account;Innovator
+1529481;F;59;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1382812;F;59;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1126852;M;55;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1532188;M;18;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1520835;M;18;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1624660;F;22;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1455701;F;22;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1506907;F;44;M;Regular;No;No;Yes;Yes;Website Account;Early Adopter
+1505689;F;44;M;Regular;No;No;Yes;Yes;Website Account;Early Adopter
+1225753;F;37;M;Regular;Yes;No;Yes;No;Monthly Billing;Early Adopter
+1199329;F;48;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1519060;M;35;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1242704;M;34;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1286134;F;28;M;Frequent;Yes;Yes;Yes;No;Website Account;Innovator
+1357960;M;59;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1116355;M;54;S;Seldom;Yes;Yes;Yes;Yes;Credit Card;Early Adopter
+1266008;F;58;S;Regular;Yes;Yes;Yes;No;Website Account;Early Majority
+1455215;F;41;M;Regular;Yes;Yes;Yes;No;Website Account;Early Majority
+1883641;M;56;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1248083;M;56;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1488328;F;35;S;Frequent;Yes;No;No;No;Bank Transfer;Innovator
+1785019;M;50;M;Seldom;Yes;No;No;Yes;Credit Card;Early Adopter
+1278777;F;51;M;Regular;Yes;No;No;Yes;Credit Card;Innovator
+1393699;F;46;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1606095;F;45;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Late Majority
+1936905;F;42;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1019446;M;66;S;Regular;Yes;Yes;No;No;Bank Transfer;Early Majority
+1737589;M;66;S;Regular;Yes;Yes;No;No;Bank Transfer;Early Majority
+1814461;M;50;M;Seldom;Yes;No;No;Yes;Credit Card;Innovator
+1638756;M;65;S;Regular;Yes;Yes;Yes;Yes;Credit Card;Innovator
+1080874;M;41;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1680620;M;32;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1514302;F;56;S;Regular;Yes;No;No;Yes;Website Account;Early Adopter
+1062389;F;55;S;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1630139;F;55;S;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1578558;F;28;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1281029;F;23;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1462938;M;41;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1234821;F;23;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1301846;M;44;M;Regular;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1375145;F;53;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1159125;F;53;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1160630;M;45;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1501133;M;45;S;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1002009;M;26;M;Regular;Yes;Yes;Yes;No;Website Account;Early Majority
+1763028;F;59;M;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1919947;M;52;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1839477;F;53;S;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1422357;F;25;M;Seldom;Yes;No;Yes;Yes;Credit Card;Early Majority
+1570579;F;57;M;Frequent;Yes;Yes;Yes;No;Monthly Billing;Early Adopter
+1809633;F;55;S;Seldom;Yes;No;No;No;Bank Transfer;Late Majority
+1858550;F;55;S;Seldom;Yes;No;No;No;Bank Transfer;Late Majority
+1696245;F;55;S;Regular;Yes;No;Yes;Yes;Website Account;Early Majority
+1970062;F;55;S;Regular;Yes;No;Yes;Yes;Website Account;Early Majority
+1667382;M;58;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1019949;F;23;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Innovator
+1442504;F;47;S;Seldom;Yes;Yes;No;Yes;Credit Card;Early Adopter
+1276805;F;28;M;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1368611;M;20;M;Regular;No;Yes;Yes;No;Website Account;Early Adopter
+1036367;F;30;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1198112;F;18;S;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1573036;F;18;S;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1655925;F;24;M;Regular;Yes;No;Yes;No;Credit Card;Innovator
+1556978;F;24;M;Regular;Yes;No;Yes;No;Credit Card;Innovator
+1423549;F;28;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1506255;F;31;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1533976;M;34;S;Seldom;Yes;No;Yes;No;Monthly Billing;Late Majority
+1684622;M;23;M;Seldom;Yes;No;No;Yes;Bank Transfer;Early Adopter
+1380997;M;43;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1013544;M;56;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1023087;M;37;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1124428;M;37;M;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1933351;M;66;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1466902;M;56;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1388251;M;56;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1554579;M;51;S;Frequent;Yes;Yes;No;No;Credit Card;Innovator
+1449338;M;46;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1579685;F;56;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1452340;F;36;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1062891;M;41;S;Seldom;Yes;Yes;Yes;No;Credit Card;Late Majority
+1800976;F;28;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1260668;M;63;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1572605;M;61;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1902760;F;61;S;Frequent;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1670823;M;47;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1948001;F;37;M;Seldom;Yes;No;No;Yes;Credit Card;Innovator
+1230922;M;44;S;Regular;Yes;No;Yes;No;Website Account;Early Majority
+1987982;F;34;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1767629;M;30;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Innovator
+1588093;F;57;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1795605;F;57;M;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1827051;M;64;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Late Majority
+1570928;F;59;M;Seldom;Yes;No;No;No;Website Account;Late Majority
+1394439;F;59;M;Seldom;Yes;No;No;No;Website Account;Late Majority
+1812858;M;31;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1902746;M;48;S;Frequent;Yes;Yes;Yes;Yes;Website Account;Late Majority
+1472031;M;35;S;Seldom;Yes;No;Yes;No;Bank Transfer;Late Majority
+1370051;M;41;S;Seldom;Yes;No;No;Yes;Bank Transfer;Early Adopter
+1773251;F;22;M;Regular;Yes;Yes;Yes;No;Credit Card;Early Adopter
+1226719;M;24;M;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1948281;M;20;M;Seldom;Yes;No;No;No;Monthly Billing;Early Majority
+1313199;M;29;M;Regular;Yes;No;Yes;No;Bank Transfer;Late Majority
+1937179;M;66;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Majority
+1816644;M;64;M;Seldom;Yes;No;No;No;Bank Transfer;Early Majority
+1569248;M;31;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1116455;M;31;M;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1827199;M;21;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Innovator
+1128176;M;24;M;Seldom;No;Yes;Yes;Yes;Bank Transfer;Early Majority
+1139119;M;58;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1444624;F;29;M;Seldom;Yes;No;No;No;Bank Transfer;Late Majority
+1057958;F;49;M;Regular;No;Yes;Yes;No;Credit Card;Late Majority
+1922620;M;48;S;Regular;Yes;No;No;No;Monthly Billing;Early Majority
+1491310;F;29;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1129914;M;57;S;Regular;No;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1187213;F;43;S;Seldom;Yes;Yes;No;Yes;Credit Card;Early Adopter
+1497511;F;43;S;Seldom;Yes;Yes;No;Yes;Credit Card;Early Adopter
+1266816;F;35;S;Regular;Yes;Yes;No;No;Website Account;Early Adopter
+1999901;M;35;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1380876;M;35;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1004043;F;49;S;Seldom;Yes;Yes;Yes;No;Monthly Billing;Late Majority
+1623886;F;49;S;Seldom;Yes;Yes;Yes;No;Monthly Billing;Late Majority
+1007900;F;47;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1431883;F;60;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1855327;F;60;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1735183;F;37;M;Regular;No;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1406884;F;37;M;Regular;No;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1720507;M;33;M;Seldom;Yes;Yes;No;No;Credit Card;Early Majority
+1080126;M;33;M;Seldom;Yes;Yes;No;No;Credit Card;Early Majority
+1840483;F;26;M;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1936054;F;26;M;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1978210;M;22;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1705381;M;22;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1030201;M;57;M;Frequent;Yes;Yes;Yes;Yes;Website Account;Innovator
+1133196;M;43;S;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1937799;M;62;M;Seldom;Yes;No;Yes;No;Website Account;Innovator
+1933099;M;30;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Adopter
+1410745;M;43;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1645962;M;43;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1661096;F;46;S;Seldom;Yes;Yes;No;No;Bank Transfer;Late Majority
+1611658;F;31;S;Regular;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1301027;M;53;M;Seldom;Yes;No;Yes;No;Credit Card;Late Majority
+1691209;M;21;S;Seldom;Yes;No;No;Yes;Website Account;Early Adopter
+1128331;F;51;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1824854;M;54;S;Regular;Yes;Yes;Yes;No;Credit Card;Early Adopter
+1966778;M;54;S;Regular;No;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1261401;F;48;S;Seldom;No;No;Yes;Yes;Bank Transfer;Early Majority
+1632910;F;48;S;Seldom;No;No;Yes;Yes;Bank Transfer;Early Majority
+1509415;M;28;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1881053;M;51;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1390958;F;38;M;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1243222;M;22;S;Regular;Yes;Yes;No;No;Credit Card;Innovator
+1221291;F;32;M;Regular;Yes;No;Yes;No;Website Account;Early Adopter
+1884063;M;46;M;Regular;Yes;No;Yes;No;Credit Card;Early Adopter
+1075967;M;41;M;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1951952;M;19;M;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1864805;F;17;M;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1247988;F;17;M;Seldom;Yes;No;Yes;No;Website Account;Early Majority
+1314664;M;34;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1586355;F;33;S;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1202597;F;49;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1222092;F;49;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1186135;M;17;M;Seldom;Yes;Yes;Yes;No;Website Account;Early Majority
+1712356;F;34;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1153448;M;64;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1202161;M;64;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Adopter
+1406945;F;63;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1520649;F;47;S;Regular;Yes;No;No;Yes;Bank Transfer;Innovator
+1018901;F;47;S;Regular;Yes;No;No;Yes;Bank Transfer;Innovator
+1618552;F;41;M;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1938716;F;41;M;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1575219;M;24;M;Regular;Yes;No;Yes;No;Bank Transfer;Innovator
+1251233;M;61;S;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1014997;F;30;M;Regular;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1316113;M;56;S;Seldom;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1874892;M;48;M;Seldom;Yes;Yes;Yes;No;Credit Card;Late Majority
+1132046;M;48;M;Seldom;Yes;Yes;Yes;No;Credit Card;Late Majority
+1075813;F;38;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1344678;M;22;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1056108;M;35;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Adopter
+1827416;F;47;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1895758;F;34;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1423801;F;34;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1123143;M;54;S;Regular;Yes;Yes;Yes;No;Credit Card;Early Majority
+1913781;F;61;M;Frequent;Yes;No;No;No;Monthly Billing;Early Majority
+1076463;M;64;M;Seldom;Yes;No;Yes;No;Credit Card;Early Adopter
+1178435;M;27;S;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1968630;M;27;S;Seldom;Yes;No;Yes;Yes;Monthly Billing;Early Adopter
+1572194;F;42;S;Frequent;Yes;Yes;Yes;No;Credit Card;Early Adopter
+1787954;M;45;S;Regular;Yes;Yes;Yes;No;Website Account;Early Majority
+1635667;M;29;S;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1274882;M;55;M;Seldom;Yes;Yes;No;No;Credit Card;Late Majority
+1162205;F;21;S;Seldom;Yes;No;No;No;Credit Card;Early Majority
+1019601;F;62;M;Regular;No;Yes;Yes;No;Bank Transfer;Early Majority
+1579794;F;51;S;Regular;Yes;Yes;No;No;Bank Transfer;Early Adopter
+1386109;F;47;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1263107;M;45;S;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1707988;F;26;S;Seldom;No;No;No;Yes;Website Account;Early Adopter
+1787130;F;50;S;Seldom;Yes;No;No;No;Credit Card;Late Majority
+1932907;F;50;S;Seldom;Yes;No;No;No;Credit Card;Late Majority
+1958316;M;53;S;Seldom;Yes;No;Yes;No;Website Account;Early Adopter
+1219920;M;60;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1911731;M;60;M;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1664214;M;47;S;Regular;Yes;No;No;Yes;Credit Card;Early Adopter
+1798164;F;60;M;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1897370;M;55;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Late Majority
+1060336;F;63;M;Frequent;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1127022;M;57;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Innovator
+1457850;F;63;M;Frequent;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1539483;M;61;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1582275;M;61;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Late Majority
+1535305;M;57;S;Regular;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1412830;M;52;S;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Majority
+1909519;M;66;M;Regular;Yes;No;Yes;Yes;Bank Transfer;Early Majority
+1340184;F;26;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1022788;F;41;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1365436;F;41;S;Seldom;Yes;No;Yes;No;Bank Transfer;Early Majority
+1114627;F;26;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1814063;M;31;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1433266;M;31;M;Seldom;Yes;No;Yes;No;Website Account;Late Majority
+1710686;M;27;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1082358;F;58;S;Regular;Yes;Yes;Yes;No;Website Account;Innovator
+1492222;M;25;S;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1395264;M;25;S;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1038944;M;19;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1556676;F;41;M;Seldom;Yes;Yes;No;No;Bank Transfer;Early Majority
+1001158;F;43;M;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1873608;F;63;S;Regular;Yes;No;No;No;Bank Transfer;Early Majority
+1728085;F;41;M;Seldom;Yes;Yes;No;No;Bank Transfer;Early Majority
+1044199;M;41;M;Regular;No;No;Yes;Yes;Monthly Billing;Early Adopter
+1048570;F;44;M;Seldom;Yes;Yes;Yes;No;Monthly Billing;Late Majority
+1253332;F;39;M;Regular;No;No;Yes;No;Website Account;Early Majority
+1100405;F;34;S;Regular;Yes;Yes;Yes;No;Website Account;Early Adopter
+1155375;F;61;M;Frequent;Yes;No;No;No;Monthly Billing;Early Adopter
+1190903;F;46;S;Regular;Yes;Yes;Yes;No;Bank Transfer;Early Adopter
+1508550;M;57;S;Seldom;Yes;Yes;Yes;Yes;Bank Transfer;Early Adopter
+1055846;M;45;S;Seldom;Yes;No;Yes;No;Credit Card;Early Majority
+1949576;M;37;S;Seldom;Yes;Yes;Yes;Yes;Monthly Billing;Early Adopter
+1331362;F;55;M;Regular;Yes;Yes;No;Yes;Website Account;Early Adopter
+1951900;F;55;M;Regular;Yes;Yes;No;Yes;Website Account;Early Adopter
+1418302;M;57;M;Seldom;Yes;Yes;Yes;No;Website Account;Late Majority
+1239427;F;42;M;Regular;Yes;Yes;Yes;Yes;Credit Card;Innovator
+1158954;F;26;M;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1958443;M;62;S;Regular;Yes;No;Yes;Yes;Credit Card;Innovator
+1685005;M;62;S;Regular;Yes;No;Yes;Yes;Credit Card;Innovator
+1078532;F;61;M;Regular;Yes;Yes;Yes;No;Monthly Billing;Early Majority
+1444119;M;21;S;Seldom;Yes;Yes;Yes;No;Bank Transfer;Early Majority
+1891684;M;41;M;Regular;Yes;Yes;Yes;Yes;Credit Card;Innovator
+1244734;M;41;M;Regular;Yes;Yes;Yes;Yes;Credit Card;Innovator
+1178867;F;58;M;Frequent;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1700148;F;58;M;Frequent;Yes;No;Yes;No;Bank Transfer;Early Adopter
+1515409;M;54;M;Seldom;Yes;No;Yes;Yes;Website Account;Early Majority
+1535151;M;43;S;Seldom;Yes;Yes;Yes;Yes;Website Account;Early Majority
+1866366;M;37;M;Regular;Yes;No;No;No;Website Account;Early Adopter
+1848052;M;60;S;Seldom;Yes;Yes;No;No;Bank Transfer;Late Majority
+1342779;M;37;M;Regular;Yes;No;No;No;Website Account;Early Adopter
+1018278;M;38;M;Regular;Yes;Yes;Yes;Yes;Website Account;Innovator
+1954852;M;38;M;Regular;Yes;Yes;Yes;Yes;Website Account;Innovator
+1397695;M;63;S;Seldom;Yes;No;No;No;Bank Transfer;Late Majority
+1840589;F;55;S;Seldom;Yes;No;Yes;No;Monthly Billing;Early Adopter

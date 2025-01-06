@@ -1,0 +1,41 @@
+Amsterdam	9.813	
+Athens	9.800	
+Auckland	9.799	
+Bangkok	9.783	
+Brussels	9.811	
+Buenos Aires	9.797	
+Calcutta	9.788	
+Cape Town	9.796	
+Chicago	9.803	
+Copenhagen	9.815	
+Frankfurt	9.810	
+Havana	9.788	
+Helsinki	9.819	
+Istanbul	9.808	
+Jakarta	9.781	
+Kuwait	9.793	
+Lisbon	9.801	
+London	9.812	
+Los Angeles	9.796	
+Madrid	9.800	
+Manila	9.784	
+Mexico City	9.779	
+Montréal	9.789	
+New York City	9.802	
+Nicosia	9.797	
+Oslo	9.819	
+Ottawa	9.806	
+Paris	9.809	
+Rio de Janeiro	9.788	
+Rome	9.803	
+San Francisco	9.800	
+Singapore	9.781	
+Skopje	9.804	
+Stockholm	9.818	
+Sydney	9.797	
+Taipei	9.790	
+Tokyo	9.798	
+Vancouver	9.809	
+Washington, D.C.	9.801	
+Wellington	9.803	
+Zurich	9.807	
