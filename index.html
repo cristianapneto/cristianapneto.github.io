@@ -24,8 +24,18 @@
                 if (item.type === 'file') {
                     // Create a link for a file
                     const fileLink = document.createElement('a');
-                    fileLink.href = item.download_url;
+                    fileLink.href = item.html_url; // Link to view the file on GitHub
                     fileLink.textContent = item.name;
+
+                    // Open file in a new tab
+                    fileLink.target = "_blank"; // This will open the file in a new tab
+
+                    // Check if the file is a PDF and adjust accordingly
+                    if (item.name.endsWith(".pdf")) {
+                        fileLink.href = item.download_url; // Link to the raw file
+                        fileLink.target = "_blank"; // Ensure it opens in a new tab
+                    }
+
                     listItem.appendChild(fileLink);
                 } else if (item.type === 'dir') {
                     // Create a link for a folder (subdirectory)
