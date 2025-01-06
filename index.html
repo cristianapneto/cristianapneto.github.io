@@ -10,17 +10,17 @@
     <div id="file-list"></div>
 
     <script>
-        // GitHub API URL for the repository contents (root level)
+        // Base URL for GitHub API
         const repoUrl = 'https://api.github.com/repos/cristianapneto/material_aulas/contents/';
 
         // Function to display files and folders
         function displayFilesAndFolders(contents) {
             const fileListDiv = document.getElementById('file-list');
             fileListDiv.innerHTML = ''; // Clear any previous content
-            
+
             contents.forEach(item => {
                 const listItem = document.createElement('div');
-                
+
                 if (item.type === 'file') {
                     // Create a link for a file
                     const fileLink = document.createElement('a');
@@ -37,14 +37,14 @@
                     };
                     listItem.appendChild(folderLink);
                 }
-                
+
                 fileListDiv.appendChild(listItem);
             });
         }
 
         // Fetch contents of a folder
         function fetchFolderContents(path) {
-            fetch(`${repoUrl}${path}`)
+            fetch(`${repoUrl}${encodeURIComponent(path)}?ref=main`)
                 .then(response => response.json())
                 .then(data => displayFilesAndFolders(data))
                 .catch(error => {
