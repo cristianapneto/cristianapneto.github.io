@@ -1,1 +1,38 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Material Aulas Files</title>
+</head>
+<body>
+    <h1>Repository Files</h1>
+    <ul id="file-list"></ul>
+
+    <script>
+        // GitHub API URL for your repository
+        const repoUrl = 'https://api.github.com/repos/cristianapneto/material_aulas/contents/';
+
+        // Fetch the repository content
+        fetch(repoUrl)
+            .then(response => response.json())
+            .then(data => {
+                const fileList = document.getElementById('file-list');
+                data.forEach(file => {
+                    // Check if the file is a regular file (not a directory)
+                    if (file.type === 'file') {
+                        const listItem = document.createElement('li');
+                        const link = document.createElement('a');
+                        link.href = file.download_url;
+                        link.textContent = file.name;
+                        listItem.appendChild(link);
+                        fileList.appendChild(listItem);
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching repository files:', error);
+            });
+    </script>
+</body>
+</html>
